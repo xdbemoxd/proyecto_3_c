@@ -1,0 +1,135 @@
+{
+	"nombre": "Alvaro",
+	"apellido": "Espinoza",
+	"cedula": "24500719",
+	"subordinados": [
+	{
+		"nombre": "Giuliana",
+		"apellido": "Belli",
+		"cedula": "5468339912",
+		"subordinados": [
+			{
+			"nombre": "will",
+			"apellido": "Smith",
+			"cedula": "985326",
+			"subordinados": [
+				{
+				"nombre": "Andres",
+				"apellido": "Rodriguez",
+				"cedula": "657892",
+				"subordinados": [
+				{
+					"nombre": "jose",
+					"apellido": "Impala",
+					"cedula": "3216549",
+					"subordinados": []
+				}
+				]
+				}
+			]
+			},
+			{
+				"nombre": "Mikasa",
+				"apellido": "Jaeger",
+				"cedula": "6497315",
+				"subordinados": []
+			},
+			{
+				"nombre": "Mario",
+				"apellido": "Gotze",
+				"cedula": "6497159",
+				"subordinados": []
+			},
+			{
+				"nombre": "Leonel",
+				"apellido": "Messi",
+				"cedula": "10",
+				"subordinados": []
+			},
+			{
+				"nombre": "Cristiano",
+				"apellido": "Ronaldo",
+				"cedula": "7",
+				"subordinados": []
+			}
+		]
+	},
+	{
+		"nombre": "Martin",
+		"apellido": "Rodriguez",
+		"cedula": "1698972","subordinados": [
+		{
+			"nombre": "Juan",
+			"apellido": "Cano",
+			"cedula": "16989723",
+			"subordinados": [
+			{
+				"nombre": "Sade",
+				"apellido": "Marquez",
+				"cedula": "3698521",
+				"subordinados": []
+			},
+			{
+				"nombre": "Mario",
+				"apellido": "Balottelli",
+				"cedula": "4567892",
+				"subordinados": []
+		}
+			]
+		},
+		{
+			"nombre": "Benjamin",
+			"apellido": "Marroquin",
+			"cedula": "27445292",
+			"subordinados": [
+			{
+				"nombre": "Aura",
+				"apellido": "Marroquin",
+				"cedula": "7896542",
+				"subordinados": []
+			}
+			]
+		}
+		]
+	},
+	{
+		"nombre": "Giuliana",
+		"apellido": "Belli",
+		"cedula": "896421",
+		"subordinados": [
+		
+		{
+			"nombre": "Clarett",
+			"apellido": "Marroquin",
+			"cedula": "11153858",
+			"subordinados": []
+		},
+		{
+			"nombre": "Alberto",
+			"apellido": "Marroquin",
+			"cedula": "8965210",
+			"subordinados": []
+		}
+		]
+	},
+	{
+		"nombre": "Angel",
+		"apellido": "Maya",
+		"cedula": "97945612",
+		"subordinados": [
+			{
+				"nombre": "Carlos",
+				"apellido": "Tevez",
+				"cedula": "567891",
+				"subordinados": []
+			},
+			{
+				"nombre": "Yadira",
+				"apellido": "Yoconda",
+				"cedula": "2304568",
+				"subordinados": []
+			}
+		]
+	}
+	]
+}

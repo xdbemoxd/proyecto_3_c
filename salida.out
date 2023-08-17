@@ -1,0 +1,4 @@
+PREORDEN:["AlvaroEspinoza","GiulianaBelli","MartinRodriguez","JuanCano","BenjaminMarroquin","AngelOropeza"]
+INORDEN:["GiulianaBelli","AlvaroEspinoza","JuanCano","AlvaroEspinoza","BenjaminMarroquin","MartinRodriguez","AngelOropeza"]
+POSTORDEN:["GiulianaBelli","JuanCano","BenjaminMarroquin","MartinRodriguez","AngelOropeza","AlvaroEspinoza"]
+NIVELES:["AlvaroEspinoza","GiulianaBelli","MartinRodriguez","AngelOropeza","JuanCano","BenjaminMarroquin"]
